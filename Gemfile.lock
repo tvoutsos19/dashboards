@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/firstdraft/grade_runner.git
-  revision: 00b35c32bf97439065d6ea51469678cebb3cddc5
+  revision: 2934f2b774488c3fc030f4211bc0530e97b11d73
   specs:
     grade_runner (0.0.3.pre.3)
       oj
@@ -192,7 +192,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     nokogiri (1.10.10-x86-mingw32)
       mini_portile2 (~> 2.4.0)
-    oj (3.10.7)
+    oj (3.10.14)
     orm_adapter (0.5.0)
     pg (1.2.3)
     pg (1.2.3-x64-mingw32)
@@ -390,7 +390,7 @@ DEPENDENCIES
   pry-rails
   puma (~> 4.1)
   rack-timeout
-  rails (~> 6.0.3, >= 6.0.3.2)
+  rails (~> 6.0.3)
   rails_db (= 2.3.1)
   rspec-html-matchers
   rspec-rails

@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2020-dashboards:working
+image: jelaniwoods/appdev2020-dashboards:fall
 
 tasks:
   - init: bin/setup
